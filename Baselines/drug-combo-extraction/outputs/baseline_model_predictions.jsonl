@@ -1,0 +1,162 @@
+{"doc_id": "82_8", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "64_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "29_6", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "15_3", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "relation_label": 0}
+{"doc_id": "79_0", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "70_0", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "8_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "39_3", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "49_6", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "76_7", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "79_10", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "79_8", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "79_3", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "70_2", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "relation_label": 0}
+{"doc_id": "79_14", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "88_0", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "70_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "79_2", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "29_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "70_7", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "relation_label": 0}
+{"doc_id": "39_18", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "64_14", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "relation_label": 0}
+{"doc_id": "39_2", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "64_13", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "47_0", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "82_0", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "76_6", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "76_12", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "29_10", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], "relation_label": 0}
+{"doc_id": "76_10", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "79_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "76_2", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "85_8", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "8_7", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "64_6", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "relation_label": 0}
+{"doc_id": "39_13", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "39_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "relation_label": 0}
+{"doc_id": "47_6", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "88_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "79_12", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "15_9", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "47_3", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "79_6", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "8_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "49_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "82_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "47_11", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "76_8", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "39_6", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "29_5", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "70_6", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "15_0", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "64_0", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "relation_label": 0}
+{"doc_id": "82_9", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "85_7", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "29_8", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], "relation_label": 0}
+{"doc_id": "29_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "29_12", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "70_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "49_2", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "relation_label": 0}
+{"doc_id": "76_3", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "15_7", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "39_9", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "79_13", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "64_8", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "76_15", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "15_8", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "39_15", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "8_0", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "39_14", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "47_4", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "79_7", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "29_0", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "39_7", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "29_3", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "64_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "79_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "88_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "relation_label": 0}
+{"doc_id": "15_2", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "47_7", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "8_2", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "76_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "64_16", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "relation_label": 0}
+{"doc_id": "49_1", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "15_6", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "relation_label": 0}
+{"doc_id": "70_11", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], "relation_label": 0}
+{"doc_id": "88_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], "relation_label": 0}
+{"doc_id": "64_7", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "relation_label": 0}
+{"doc_id": "79_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "49_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "39_1", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "85_3", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "39_17", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "79_16", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "29_7", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "76_16", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "relation_label": 0}
+{"doc_id": "47_10", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "82_5", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "39_19", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "8_3", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "85_6", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "76_11", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "29_2", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "64_10", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "39_11", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "85_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "49_0", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "49_3", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "47_12", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "15_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "relation_label": 0}
+{"doc_id": "64_11", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "79_15", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "15_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "64_15", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "47_9", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "64_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "70_8", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "85_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "64_12", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "relation_label": 0}
+{"doc_id": "88_2", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "64_9", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "relation_label": 0}
+{"doc_id": "64_2", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "70_9", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "15_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "relation_label": 0}
+{"doc_id": "26_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "relation_label": 0}
+{"doc_id": "76_0", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "49_7", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "82_6", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "26_2", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "64_3", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "82_3", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "88_6", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "47_1", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "70_10", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "39_10", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "88_3", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "79_11", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "79_9", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "70_12", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "39_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "relation_label": 0}
+{"doc_id": "39_12", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "85_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "8_6", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "82_2", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "76_9", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "88_7", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "76_14", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8], "relation_label": 0}
+{"doc_id": "47_2", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "39_0", "drug_idxs": [0, 1, 2], "relation_label": 0}
+{"doc_id": "85_2", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "47_8", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "76_13", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "8_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7], "relation_label": 0}
+{"doc_id": "76_4", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "85_0", "drug_idxs": [0, 1, 2, 3], "relation_label": 0}
+{"doc_id": "26_0", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "82_1", "drug_idxs": [0, 1, 2, 3, 4, 5, 6], "relation_label": 0}
+{"doc_id": "39_16", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "relation_label": 0}
+{"doc_id": "47_5", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
+{"doc_id": "76_5", "drug_idxs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "relation_label": 0}
+{"doc_id": "29_9", "drug_idxs": [0, 1, 2, 3, 4], "relation_label": 0}
+{"doc_id": "39_8", "drug_idxs": [0, 1, 2, 3, 4, 5], "relation_label": 0}
