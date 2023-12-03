@@ -2,7 +2,7 @@
 
 ## Dependencies
 This repo is built with python 3.8. Run the following commands to install dependencies:
-
+```shell
 pip install -r ./requirements.txt
 
 pip install git+https://github.com/titipata/scipdf_parser
@@ -18,7 +18,7 @@ pip install tensorflow
 pip install BeautifulSoup4
 
 cde data download
-
+```
 ## Dataset
 The Annotation/Data/Ner folder contains manually annotated articles on the Polymer Solar Cells dataset and the Lithium Batteries dataset. The text in these articles are parsed from PDFs, pre-annotated with noisy labels, and manually annotated in Doccano.
 
