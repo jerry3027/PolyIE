@@ -4,19 +4,12 @@
 This repo is built with python 3.8. Run the following commands to install dependencies:
 ```shell
 pip install -r ./requirements.txt
-
 pip install git+https://github.com/titipata/scipdf_parser
-
 python -m spacy download en_core_web_sm
-
 pip install PyMuPDF
-
 pip install decimer-segmentation
-
 pip install tensorflow
-
 pip install BeautifulSoup4
-
 cde data download
 ```
 ## Dataset
