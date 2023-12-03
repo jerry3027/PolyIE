@@ -1,4 +1,4 @@
-# MMIE
+# PolyIE
 
 ## Dependencies
 This repo is built with python 3.8. Run the following commands to install dependencies:
