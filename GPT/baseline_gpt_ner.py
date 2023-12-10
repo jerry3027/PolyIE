@@ -6,17 +6,14 @@ import asyncio
 from tqdm import tqdm
 from GPT import prompt_examples
 
-# Junyang API Key
-# openai.api_key = "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"
+# Common API key
+openai.api_key = "***"
 
-# Yuchen API key
-openai.api_key = "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"
-
-# ChaoZhang API Key
+# Azure API Key
 openai.api_type = "azure"
-openai.api_base = "https://chaolab-eastus2.openai.azure.com/"
+openai.api_base = "***"
 openai.api_version = "2023-07-01-preview"
-openai.api_key = "d3704c0696884d479ce8f6822b522277"
+openai.api_key = "***"
 
 def data_preprocessor():
     with open('./Cleaned_data/Final_v2/train_split.txt', 'r') as train_file:
