@@ -217,27 +217,6 @@ def relationComparator(x, chemical_tuple):
 
 
 if __name__ == '__main__':
-    # For PSC
-    # pdf_path = './Data/PolymerSolarCell/PDFs'
-    # output_path = './Outputs/PSC'
-
-    # For Kolon
-    # downloadPSC(doi_path='./Data/Kolon/kolon_dois.txt', output_path='./Data/Kolon/PDFs')
-    # pdf_path = './Data/Kolon/PDFs'
-    # output_path = './Outputs/Kolon'
-
-    # For Yinghao
-    # doi_list = obtain_Yinghao_doi(dataset_path='./Data/Datasets/Yinghao/jsonl', output_file='./Data/Datasets/Yinghao/yinghao_doi.txt')
-    # downloadPSC(doi_path='./Data/Datasets/Yinghao/yinghao_doi.txt', output_path='./Data/Datasets/Yinghao/PDFs')
-    # pdf_path = './Data/Datasets/Yinghao/PDFs'
-    # output_path = './Outputs/Yinghao'
-
-    # For Pranav
-    # doi_list = obtain_Pranav_doi(dataset_path='./Data/Datasets/Pranav/parsed_files', output_file='./Data/Datasets/Pranav/pranav_doi.txt')
-    # downloadPSC(doi_path='./Data/Datasets/Pranav/pranav_doi.txt', output_path='./Data/Datasets/Pranav/PDFs')
-    # pdf_path = './Data/Datasets/Pranav/PDFs'
-    # output_path = './Outputs/Pranav'
-
     pdf_path = './Data/biopolymer'
     output_path = './Outputs/biopolymer'
     
