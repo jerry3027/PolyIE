@@ -1,5 +1,7 @@
 # PolyIE
 
+Code and Data for arXiv paper: [PolyIE: A Dataset of Information Extraction from Polymer Material Scientific Literature](https://arxiv.org/abs/2311.07715).
+
 ## Dependencies
 This repo is built with python 3.8. Run the following commands to install dependencies:
 ```shell
