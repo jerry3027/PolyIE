@@ -43,6 +43,35 @@ python main_pipeline.py --pdf_folder ./Data/PDFs --output_folder ./Data/Output -
 
 The parse pipeline will parse text from the PDF files, extract chemical name mentions, property name mentions, and property value mentions. In addition, it will also extract all molecular images from the PDF files.
 
+## Running baselines
+Install the following dependencies in order to run the baselines:
+```
+pip install transformers
+pip install torch
+pip install numpy 
+```
+
+To run Bert based NER baselines, use the following command
+```
+python ./Baselines/Bert_NER/main.py
+```
+
+To run dygiepp, PURE, and drug-combo-extract baselines, navigate to the corresponding folder and follow the instructions in the readme files. 
+
+To run GPT related baselines, install the following dependencies:
+```
+pip install openai
+```
+To run GPT based NER baselines, use the following command:
+```
+python ./GPT/baseline_gpt_ner.py
+```
+
+To run GPT based RE baselines, use the following command:
+```
+python ./GPT/baseline_gpt_re.py
+```
+
 ## Experiment results
 
 <img width="579" alt="Screen Shot 2023-01-17 at 1 17 19 PM" src="https://user-images.githubusercontent.com/62039540/213014236-a77d0b16-a567-4777-b215-521265acb10a.png">
